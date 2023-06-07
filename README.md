@@ -11,7 +11,7 @@ Before you can use `nvchad-python`, there are a few prerequisites you need to in
 sudo add-apt-repository ppa:neovim-ppa/unstable
 sudo nala upgrade -y; sudo nala install neovim
 ```
-## Install nvchad
+### Install nvchad
 ```bash
 git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
 ```
