@@ -11,6 +11,10 @@ Before you can use `nvchad-python`, there are a few prerequisites you need to in
 sudo add-apt-repository ppa:neovim-ppa/unstable
 sudo nala upgrade -y; sudo nala install neovim
 ```
+## Install nvchad
+```bash
+git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
+```
 ### Node.js and npm
 
 You can install Node.js and npm using the Nala package manager with the following command:
