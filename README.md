@@ -29,5 +29,8 @@ The Python package manager Pip and the venv module, which is used for creating v
 sudo nala install python3-pip -y
 sudo nala install python3-venv -y
 ```
-
+### Open nvim in insert mode
+```
+:MasonInstallAll
+```
 
